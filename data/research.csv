@@ -1,0 +1,8 @@
+﻿number,title,text,tags
+01,Antenna engineering & communication systems,"Design, analysis, and synthesis of antenna systems for advanced wireless applications.",Antenna arrays; RF systems
+02,Wireless power & data transfer,Near-field and far-field techniques for simultaneous or coordinated wireless energy and information transfer.,WPT; SWIPT
+03,RF energy harvesting,Rectenna architectures and energy-autonomous platforms for low-power connected devices.,Rectennas; Battery-free IoT
+04,Near-field forming & applications,"Magnetic- and electric-field shaping, localisation, and misalignment-tolerant power delivery.",H-field forming; Localisation
+05,Antenna design for IoT and 5G,"Compact, scalable, and application-specific antennas for connected sensors and next-generation networks.",IoT; 5G / 6G
+06,Static & dynamic EV charging,Wireless charging systems and coil structures for electric vehicles and autonomous platforms.,EV charging; Drone charging
+07,Wireless communication & networks,"Wireless links, coverage, intelligent surfaces, and network-aware system design.",RIS; Wireless networks
